@@ -1,0 +1,37 @@
+---
+SW04.cmh:
+    hostname: 10.10.0.4
+    username: admin
+    password: ""
+    platform: ios
+    port: 12204
+    groups:
+        - cmh
+    data:
+        site: cmh
+        role: access
+        type: network_device
+SW05.cmh:
+    hostname: 10.10.0.5
+    username: admin
+    password: ""
+    platform: ios
+    port: 12204
+    groups:
+        - cmh
+    data:
+        site: cmh
+        role: access
+        type: network_device
+SW06.cmh:
+    hostname: 10.10.0.6
+    username: admin
+    password: ""
+    platform: ios
+    port: 12204
+    groups:
+        - cmh
+    data:
+        site: cmh
+        role: access
+        type: network_device

@@ -1,0 +1,7 @@
+dict_keys(['site', 'role', 'type', 'asn', 'domain'])
+dict_keys(['SW04.bma'])
+--------------------
+dict_keys(['SW05.cmh', 'SW06.cmh'])
+--------------------
+{Host: SW06.cmh, Host: SW05.cmh}
+acme.local
