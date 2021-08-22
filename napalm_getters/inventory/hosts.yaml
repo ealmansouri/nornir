@@ -1,0 +1,32 @@
+---
+sw01:
+   hostname: 10.10.0.254
+   username: admin
+   password: cisco
+   groups:
+        - ios
+sw04:
+   hostname: 10.10.0.4
+   username: admin
+   password: cisco
+   loopback: 10.10.0.4
+   groups:
+        - ios
+sw05:
+   hostname: 10.10.0.5
+   username: admin
+   password: cisco
+   groups:
+        - ios
+sw06:
+   hostname: 10.10.0.6
+   username: admin
+   password: cisco
+   groups:
+        - ios
+vSRX:
+   hostname: 10.10.0.253
+   username: admin
+   password: Ch3rwell
+   groups:
+        - junos

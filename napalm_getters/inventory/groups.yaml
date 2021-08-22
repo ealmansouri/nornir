@@ -1,0 +1,14 @@
+---
+iosxr:
+    platform: 'iosxr'
+ios:
+    platform: 'ios'
+    data:
+        username: admin
+        password: cisco
+junos:
+    platform: 'junos'
+    data:
+        username: admin
+        password: Ch3rwell
+        hostname: vSRX-02
