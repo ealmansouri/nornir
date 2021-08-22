@@ -1,0 +1,21 @@
+---
+FWTSR01:
+    hostname: 10.202.51.231
+    groups: 
+      - ericsson_ipos
+
+
+FWTSR02:
+    host:   10.202.51.232,
+    groups: 
+      - ericsson_ipos
+
+BENSR01:
+    host:   10.202.51.225,
+    groups: 
+      - ericsson_ipos
+
+BENSR02:
+    host:   10.202.51.226,
+    groups: 
+      - ericsson_ipos

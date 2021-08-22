@@ -1,0 +1,10 @@
+ inventory:
+    plugin: SimpleInventory
+    options:
+        host_file: "inventory/mpbn-hosts.yaml"
+        group_file: "inventory/mpbn-groups.yaml"
+        defaults_file: "inventory/mpbn-defaults.yaml"
+ runner:
+    plugin: threaded
+    options:
+        num_workers: 100
