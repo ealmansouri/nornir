@@ -1,5 +1,4 @@
----
-inventory:
+ inventory:
     plugin: SimpleInventory
     options:
         host_file: "inventory/hosts.yaml"
