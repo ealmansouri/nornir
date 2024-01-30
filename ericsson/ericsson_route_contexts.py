@@ -15,24 +15,24 @@ FWTSR01 = nr.inventory.hosts[""]
 FWTSR02 = {
     "device_type": "ericsson_ipos",
     'host':   '10.202.51.232',
-    'username': 'e.mansouri',
-    'password': 'R0YgB1V!00',
+    'username': 'xxxxx',
+    'password': 'xxxxx',
     "session_log": "FWTSR02_output.txt",
 }
 
 BENSR01 = {
     "device_type": "ericsson_ipos",
     'host':   '10.202.51.225',
-    'username': 'e.mansouri',
-    'password': 'R0YgB1V!00',
+    'username': 'xxxxx',
+    'password': 'xxxxx',
     "session_log": "BENSR01_output.txt",
 }
 
 BENSR02 = {
     "device_type": "ericsson_ipos",
     'host':   '10.202.51.226',
-    'username': 'e.mansouri',
-    'password': 'R0YgB1V!00',
+    'username': 'xxxxx',
+    'password': 'xxxxx',
     "session_log": "BENSR02_output.txt",
 }
 
